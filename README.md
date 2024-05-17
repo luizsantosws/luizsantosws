@@ -78,10 +78,71 @@ Minha experiência é aproveitar estruturas ágeis para fornecer uma sinopse rob
 <li><span class="fa-li"><i class="fas fa-check"></i></span>Virtualização (VmWare, Hyper-V)</li>
 </ul>
 
-<h2 align="center"> 📖 Bootcamps </h2>
-
+<h2 align="center"> 📖 Santander Bootcamp 2024 </h2>
 <div align="center">
-• Santander Bootcamp 2024
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="certificados_dio/3GM8TZ6I.pdf" target="_blank">
+        <img src="certificados_dio/3GM8TZ6I.png" alt="Certificado 1" style="width:200px;"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="certificados_dio/IM1T7JH3.pdf" target="_blank">
+        <img src="certificados_dio/IM1T7JH3.png" alt="Certificado 2" style="width:200px;"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="certificados_dio/J349SCBF.pdf" target="_blank">
+        <img src="certificados_dio/J349SCBF.png" alt="Certificado 3" style="width:200px;"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="certificados_dio/JRIEFBX1.pdf" target="_blank">
+        <img src="certificados_dio/JRIEFBX1.png" alt="Certificado 4" style="width:200px;"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="certificados_dio/KM61RRWB.pdf" target="_blank">
+        <img src="certificados_dio/KM61RRWB.png" alt="Certificado 5" style="width:200px;"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="certificados_dio/QCE6J3GF.pdf" target="_blank">
+        <img src="certificados_dio/QCE6J3GF.png" alt="Certificado 6" style="width:200px;"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="certificados_dio/QX3DIOO6.pdf" target="_blank">
+        <img src="certificados_dio/QX3DIOO6.png" alt="Certificado 7" style="width:200px;"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="certificados_dio/UWHJR81V.pdf" target="_blank">
+        <img src="certificados_dio/UWHJR81V.png" alt="Certificado 8" style="width:200px;"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="certificados_dio/W0KXGVGA.pdf" target="_blank">
+        <img src="certificados_dio/W0KXGVGA.png" alt="Certificado 9" style="width:200px;"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="certificados_dio/XDK3LFUU.pdf" target="_blank">
+        <img src="certificados_dio/XDK3LFUU.png" alt="Certificado 10" style="width:200px;"/>
+      </a>
+    </td>
+    <!-- Adicione mais colunas se tiver mais certificados -->
+  </tr>
+</table>
+
+
 </div>
 <br>
 <br>
