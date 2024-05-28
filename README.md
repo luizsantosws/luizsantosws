@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #EB9326">Luiz Fernando Parreira dos Santos</h1><br>
-<h2 align="center"> 🔌 Conecte-se comigo / Connect with me </h2>
+<h2 align="center"> 🔌 Conecte-se comigo </h2>
 <div align="center">
 <a href="https://linkedin.com/in/luizsantosws" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luizsantosws" height="30" width="40" /></a>
 <a href="https://fb.com/luizsantosboo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luizsantosboo" height="30" width="40" /></a>
@@ -83,58 +83,58 @@ Minha experiência é aproveitar estruturas ágeis para fornecer uma sinopse rob
 <table align="center">
   <tr>
     <td align="center">
-      <a href="certificados_dio/3GM8TZ6I.pdf" target="_blank">
+      <a href="certificados_dio/3GM8TZ6I.png" target="_blank">
         <img src="certificados_dio/3GM8TZ6I.png" alt="Certificado 1" style="width:200px;"/>
       </a>
     </td>
     <td align="center">
-      <a href="certificados_dio/IM1T7JH3.pdf" target="_blank">
+      <a href="certificados_dio/IM1T7JH3.png" target="_blank">
         <img src="certificados_dio/IM1T7JH3.png" alt="Certificado 2" style="width:200px;"/>
       </a>
     </td>
     <td align="center">
-      <a href="certificados_dio/J349SCBF.pdf" target="_blank">
+      <a href="certificados_dio/J349SCBF.png" target="_blank">
         <img src="certificados_dio/J349SCBF.png" alt="Certificado 3" style="width:200px;"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="certificados_dio/JRIEFBX1.pdf" target="_blank">
+      <a href="certificados_dio/JRIEFBX1.png" target="_blank">
         <img src="certificados_dio/JRIEFBX1.png" alt="Certificado 4" style="width:200px;"/>
       </a>
     </td>
     <td align="center">
-      <a href="certificados_dio/KM61RRWB.pdf" target="_blank">
+      <a href="certificados_dio/KM61RRWB.png" target="_blank">
         <img src="certificados_dio/KM61RRWB.png" alt="Certificado 5" style="width:200px;"/>
       </a>
     </td>
     <td align="center">
-      <a href="certificados_dio/QCE6J3GF.pdf" target="_blank">
+      <a href="certificados_dio/QCE6J3GF.png" target="_blank">
         <img src="certificados_dio/QCE6J3GF.png" alt="Certificado 6" style="width:200px;"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="certificados_dio/QX3DIOO6.pdf" target="_blank">
+      <a href="certificados_dio/QX3DIOO6.png" target="_blank">
         <img src="certificados_dio/QX3DIOO6.png" alt="Certificado 7" style="width:200px;"/>
       </a>
     </td>
     <td align="center">
-      <a href="certificados_dio/UWHJR81V.pdf" target="_blank">
+      <a href="certificados_dio/UWHJR81V.png" target="_blank">
         <img src="certificados_dio/UWHJR81V.png" alt="Certificado 8" style="width:200px;"/>
       </a>
     </td>
     <td align="center">
-      <a href="certificados_dio/W0KXGVGA.pdf" target="_blank">
+      <a href="certificados_dio/W0KXGVGA.png" target="_blank">
         <img src="certificados_dio/W0KXGVGA.png" alt="Certificado 9" style="width:200px;"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="certificados_dio/XDK3LFUU.pdf" target="_blank">
+      <a href="certificados_dio/XDK3LFUU.png" target="_blank">
         <img src="certificados_dio/XDK3LFUU.png" alt="Certificado 10" style="width:200px;"/>
       </a>
     </td>
