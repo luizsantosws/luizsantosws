@@ -81,68 +81,176 @@ Minha experiência é aproveitar estruturas ágeis para fornecer uma sinopse rob
 <h2 align="center"> 📖 Santander Bootcamp 2024 </h2>
 <div align="center">
 <table align="center">
+<tr>
+<center>
+<table>
   <tr>
+    <!-- Certificado 1 -->
+    <td align="center">
+      <a href="certificados_dio/2DISIP4F.png" target="_blank">
+        <img src="certificados_dio/2DISIP4F.png" alt="Certificado 1" style="width:200px;"/>
+      </a>
+    </td>
+    <!-- Certificado 2 -->
     <td align="center">
       <a href="certificados_dio/3GM8TZ6I.png" target="_blank">
-        <img src="certificados_dio/3GM8TZ6I.png" alt="Certificado 1" style="width:200px;"/>
+        <img src="certificados_dio/3GM8TZ6I.png" alt="Certificado 2" style="width:200px;"/>
       </a>
     </td>
+    <!-- Certificado 3 -->
+    <td align="center">
+      <a href="certificados_dio/4J4XNWXR.png" target="_blank">
+        <img src="certificados_dio/4J4XNWXR.png" alt="Certificado 3" style="width:200px;"/>
+      </a>
+    </td>
+    <!-- Certificado 4 -->
+    <td align="center">
+      <a href="certificados_dio/AJ3SOW1S.png" target="_blank">
+        <img src="certificados_dio/AJ3SOW1S.png" alt="Certificado 4" style="width:200px;"/>
+      </a>
+    </td>
+    <!-- Certificado 5 -->
+    <td align="center">
+      <a href="certificados_dio/CKGGUEKW.png" target="_blank">
+        <img src="certificados_dio/CKGGUEKW.png" alt="Certificado 5" style="width:200px;"/>
+      </a>
+    </td>
+    <!-- Certificado 6 -->
+    <td align="center">
+      <a href="certificados_dio/FA436EEQ.png" target="_blank">
+        <img src="certificados_dio/FA436EEQ.png" alt="Certificado 6" style="width:200px;"/>
+      </a>
+    </td>
+    <!-- Certificado 7 -->
+    <td align="center">
+      <a href="certificados_dio/GXICLXKT.png" target="_blank">
+        <img src="certificados_dio/GXICLXKT.png" alt="Certificado 7" style="width:200px;"/>
+      </a>
+    </td>
+    <!-- Certificado 8 -->
+    <td align="center">
+      <a href="certificados_dio/GZ5HBSPU.png" target="_blank">
+        <img src="certificados_dio/GZ5HBSPU.png" alt="Certificado 8" style="width:200px;"/>
+      </a>
+    </td>
+    <!-- Certificado 9 -->
+    <td align="center">
+      <a href="certificados_dio/HR9CVECA.png" target="_blank">
+        <img src="certificados_dio/HR9CVECA.png" alt="Certificado 9" style="width:200px;"/>
+      </a>
+    </td>
+    <!-- Certificado 10 -->
     <td align="center">
       <a href="certificados_dio/IM1T7JH3.png" target="_blank">
-        <img src="certificados_dio/IM1T7JH3.png" alt="Certificado 2" style="width:200px;"/>
+        <img src="certificados_dio/IM1T7JH3.png" alt="Certificado 10" style="width:200px;"/>
       </a>
     </td>
+    <!-- Certificado 11 -->
     <td align="center">
       <a href="certificados_dio/J349SCBF.png" target="_blank">
-        <img src="certificados_dio/J349SCBF.png" alt="Certificado 3" style="width:200px;"/>
+        <img src="certificados_dio/J349SCBF.png" alt="Certificado 11" style="width:200px;"/>
       </a>
     </td>
-  </tr>
-  <tr>
+    <!-- Certificado 12 -->
     <td align="center">
       <a href="certificados_dio/JRIEFBX1.png" target="_blank">
-        <img src="certificados_dio/JRIEFBX1.png" alt="Certificado 4" style="width:200px;"/>
+        <img src="certificados_dio/JRIEFBX1.png" alt="Certificado 12" style="width:200px;"/>
       </a>
     </td>
+    <!-- Certificado 13 -->
     <td align="center">
       <a href="certificados_dio/KM61RRWB.png" target="_blank">
-        <img src="certificados_dio/KM61RRWB.png" alt="Certificado 5" style="width:200px;"/>
+        <img src="certificados_dio/KM61RRWB.png" alt="Certificado 13" style="width:200px;"/>
       </a>
     </td>
+    <!-- Certificado 14 -->
+    <td align="center">
+      <a href="certificados_dio/OTQSYNSA.png" target="_blank">
+        <img src="certificados_dio/OTQSYNSA.png" alt="Certificado 14" style="width:200px;"/>
+      </a>
+    </td>
+    <!-- Certificado 15 -->
+    <td align="center">
+      <a href="certificados_dio/OVIDDDA2.png" target="_blank">
+        <img src="certificados_dio/OVIDDDA2.png" alt="Certificado 15" style="width:200px;"/>
+      </a>
+    </td>
+    <!-- Certificado 16 -->
     <td align="center">
       <a href="certificados_dio/QCE6J3GF.png" target="_blank">
-        <img src="certificados_dio/QCE6J3GF.png" alt="Certificado 6" style="width:200px;"/>
+        <img src="certificados_dio/QCE6J3GF.png" alt="Certificado 16" style="width:200px;"/>
       </a>
     </td>
-  </tr>
-  <tr>
+    <!-- Certificado 17 -->
     <td align="center">
       <a href="certificados_dio/QX3DIOO6.png" target="_blank">
-        <img src="certificados_dio/QX3DIOO6.png" alt="Certificado 7" style="width:200px;"/>
+        <img src="certificados_dio/QX3DIOO6.png" alt="Certificado 17" style="width:200px;"/>
       </a>
     </td>
+    <!-- Certificado 18 -->
+    <td align="center">
+      <a href="certificados_dio/R4EUWTWJ.png" target="_blank">
+        <img src="certificados_dio/R4EUWTWJ.png" alt="Certificado 18" style="width:200px;"/>
+      </a>
+    </td>
+  <tr>
+    <!-- Certificado 19 -->
+    <td align="center">
+      <a href="certificados_dio/UELYSPZQ.png" target="_blank">
+        <img src="certificados_dio/UELYSPZQ.png" alt="Certificado 19" style="width:200px;"/>
+      </a>
+    </td>
+    <!-- Certificado 20 -->
+    <td align="center">
+      <a href="certificados_dio/UT2HVRXZ.png" target="_blank">
+        <img src="certificados_dio/UT2HVRXZ.png" alt="Certificado 20" style="width:200px;"/>
+      </a>
+    </td>
+    <!-- Certificado 21 -->
     <td align="center">
       <a href="certificados_dio/UWHJR81V.png" target="_blank">
-        <img src="certificados_dio/UWHJR81V.png" alt="Certificado 8" style="width:200px;"/>
+        <img src="certificados_dio/UWHJR81V.png" alt="Certificado 21" style="width:200px;"/>
       </a>
     </td>
+    <!-- Certificado 22 -->
+    <td align="center">
+      <a href="certificados_dio/UZBM4UU3.png" target="_blank">
+        <img src="certificados_dio/UZBM4UU3.png" alt="Certificado 22" style="width:200px;"/>
+      </a>
+    </td>
+    <!-- Certificado 23 -->
     <td align="center">
       <a href="certificados_dio/W0KXGVGA.png" target="_blank">
-        <img src="certificados_dio/W0KXGVGA.png" alt="Certificado 9" style="width:200px;"/>
+        <img src="certificados_dio/W0KXGVGA.png" alt="Certificado 23" style="width:200px;"/>
       </a>
     </td>
-  </tr>
-  <tr>
+    <!-- Certificado 24 -->
+    <td align="center">
+      <a href="certificados_dio/X5JXJIYS.png" target="_blank">
+        <img src="certificados_dio/X5JXJIYS.png" alt="Certificado 24" style="width:200px;"/>
+      </a>
+    </td>
+    <!-- Certificado 25 -->
     <td align="center">
       <a href="certificados_dio/XDK3LFUU.png" target="_blank">
-        <img src="certificados_dio/XDK3LFUU.png" alt="Certificado 10" style="width:200px;"/>
+        <img src="certificados_dio/XDK3LFUU.png" alt="Certificado 25" style="width:200px;"/>
       </a>
     </td>
-    <!-- Adicione mais colunas se tiver mais certificados -->
+    <!-- Certificado 26 -->
+    <td align="center">
+      <a href="certificados_dio/YN9VKGQE.png" target="_blank">
+        <img src="certificados_dio/YN9VKGQE.png" alt="Certificado 26" style="width:200px;"/>
+      </a>
+    </td>
+    <!-- Certificado 27 -->
+    <td align="center">
+      <a href="certificados_dio/Z9KYICKI.png" target="_blank">
+        <img src="certificados_dio/Z9KYICKI.png" alt="Certificado 27" style="width:200px;"/>
+      </a>
+    </td>
   </tr>
 </table>
-
-
+</center>
 </div>
 <br>
 <br>
