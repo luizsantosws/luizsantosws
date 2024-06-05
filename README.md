@@ -121,6 +121,7 @@ Minha experiência é aproveitar estruturas ágeis para fornecer uma sinopse rob
         <img src="certificados_dio/FA436EEQ.png" alt="Certificado 6" style="width:200px;"/>
       </a>
     </td>
+    <br>
     <!-- Certificado 7 -->
     <td align="center">
       <a href="certificados_dio/GXICLXKT.png" target="_blank">
@@ -157,6 +158,7 @@ Minha experiência é aproveitar estruturas ágeis para fornecer uma sinopse rob
         <img src="certificados_dio/JRIEFBX1.png" alt="Certificado 12" style="width:200px;"/>
       </a>
     </td>
+    <br>
     <!-- Certificado 13 -->
     <td align="center">
       <a href="certificados_dio/KM61RRWB.png" target="_blank">
@@ -194,6 +196,7 @@ Minha experiência é aproveitar estruturas ágeis para fornecer uma sinopse rob
       </a>
     </td>
   <tr>
+  <br>
     <!-- Certificado 19 -->
     <td align="center">
       <a href="certificados_dio/UELYSPZQ.png" target="_blank">
@@ -230,6 +233,7 @@ Minha experiência é aproveitar estruturas ágeis para fornecer uma sinopse rob
         <img src="certificados_dio/X5JXJIYS.png" alt="Certificado 24" style="width:200px;"/>
       </a>
     </td>
+    <br>
     <!-- Certificado 25 -->
     <td align="center">
       <a href="certificados_dio/XDK3LFUU.png" target="_blank">
