@@ -8,18 +8,8 @@
 </div>
 <h2 align=center>Sobre mim</h2> 
 <p align="justify">
-Minha experiência é aproveitar estruturas ágeis para fornecer uma sinopse robusta para visões gerais de alto nível. 
-  Abordagens iterativas à estratégia corporativa e promover o pensamento colaborativo para uma proposta de valor global em meus trabalhos. 
-  Eu sou uma pessoa apaixonada pela tecnologia, mas também tenho uma conexão especial com o mundo analógico. A natureza e tudo que flutua no ar me fascinam profundamente. 
-  Meus hobbies incluem coisas que flutuam no céu; os aviões que me fazem desconectar com o mundo externo. 
-  Quanto ao meu gosto musical, sou um verdadeiro amante de todos os tipos, mas tenho um gosto musical meio atrapalhado: do rock a calmaria de um Hanzimmer. 
-  Bandas como Iron Mainden, Kiss e Rammstain estão sempre no meu radar que embalam meus momentos mais introspectivos. 
-  Acredito que é uma das formas mais profundas de expressar meu humor. 
-  Minha família é o bem mais precioso que tenho, e prezo muito pelo que já construímos juntos, tenho amigos fantásticos, aqueles de infância e aqueles que foram se aproximando. 
-  A religião é também uma forma importante de me conectar com o lado espiritual, me fortalece e me faz ter uma base ética e cultural que orienta em minhas ações/escolhas. 
-  Como pessoa, tenho um espírito aventureiro e uma paixão pela descoberta e exploração. 
-  Eu amo aprender, o faça você mesmo (DIY) a física e a ciência por trás das coisas que me chama a atenção, como a habilidade e maestria de um marceneiro raiz.
-  Em resumo, sou uma pessoa diversificada, com uma variedade de interesses e paixões que vão desde a tecnologia e a música a família e a fé.
+Em minha jornada, aprendi a enredar estruturas ágeis, tecendo sinopses robustas que desvelam visões de sublimes panoramas. Com abordagem iterativa, reformulo as estratégias, promovendo pensamento colaborativo para um valor que se espalha pelo corporativo. Em verdade, sou um fervoroso devoto das artes tecnológicas, mas, paradoxalmente, possuo uma afinidade profunda com o mundo analógico, onde a natureza e tudo que flutua no ar me enleva o espírito. Meus passatempos são como os céus que anseio alcançar; os aviões são meus pássaros mecânicos, elevando-me acima do tumulto terreno. No que tange à melodia que embala minha existência, meu coração é uma tapeçaria de sonoridades: desde o ardor do rock até a serenidade das composições de Hans Zimmer são os arautos de meus momentos de introspecção, cada nota uma expressão do meu humor mutável.Minha família é meu tesouro inestimável, e prezo pelo legado que juntos construímos. Meus amigos, sejam da infância ou aqueles que a vida trouxe ao meu caminho, são jóias raras que adornam minha jornada. 
+A religião, igualmente, é um elo sagrado que fortalece minha alma, fornecendo uma base ética e cultural que guia minhas escolhas. Sou dotado de um espírito aventureiro e uma insaciável paixão pela descoberta. O aprender, o fazer por si mesmo, a física e a ciência que explicam o universo despertam em mim um fascínio. Em suma, sou uma alma multifacetada, com interesses que vão além do seu conhecimento.
 </p>
 
 <h1 align=center>Educação e Formação</h1> 
