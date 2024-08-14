@@ -1,11 +1,4 @@
-<h1 align="center" style="color: #EB9326">Luiz Fernando Parreira dos Santos</h1><br>
-<h2 align="center"> 🔌 Conecte-se comigo </h2>
-<div align="center">
-<a href="https://linkedin.com/in/luizsantosws" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luizsantosws" height="30" width="40" /></a>
-<a href="https://fb.com/luizsantosboo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luizsantosboo" height="30" width="40" /></a>
-<a href="https://instagram.com/lprrboo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lprrboo" height="30" width="40" /></a>
-<br>
-</div>
+<h1 align="center" style="color: #EB9326">Luiz Santos</h1><br>
 <h2 align=center>Sobre mim</h2> 
 <p align="justify">
 Em minha jornada, aprendi a enredar estruturas ágeis, tecendo sinopses robustas que desvelam visões de sublimes panoramas. Com abordagem iterativa, reformulo as estratégias, promovendo pensamento colaborativo para um valor que se espalha pelo corporativo. Em verdade, sou um fervoroso devoto das artes tecnológicas, mas, paradoxalmente, possuo uma afinidade profunda com o mundo analógico, onde a natureza e tudo que flutua no ar me enleva o espírito. Meus passatempos são como os céus que anseio alcançar; os aviões são meus pássaros mecânicos, elevando-me acima do tumulto terreno. No que tange à melodia que embala minha existência, meu coração é uma tapeçaria de sonoridades: desde o ardor do rock até a serenidade das composições de Hans Zimmer são os arautos de meus momentos de introspecção, cada nota uma expressão do meu humor mutável.Minha família é meu tesouro inestimável, e prezo pelo legado que juntos construímos. Meus amigos, sejam da infância ou aqueles que a vida trouxe ao meu caminho, são jóias raras que adornam minha jornada. 
@@ -67,7 +60,6 @@ A religião, igualmente, é um elo sagrado que fortalece minha alma, fornecendo 
 <li><span class="fa-li"><i class="fas fa-check"></i></span>Telefonia em nuvem</li>
 <li><span class="fa-li"><i class="fas fa-check"></i></span>Virtualização (VmWare, Hyper-V)</li>
 </ul>
-
 <h2 align="center"> 📖 Santander Bootcamp 2024 </h2>
 <div align="center">
 <img src="https://hermes.dio.me/tracks/84b2d685-23f9-4729-9e3c-28cb84a39b38.png" alt="Imagem 1" width="100">
@@ -78,6 +70,13 @@ A religião, igualmente, é um elo sagrado que fortalece minha alma, fornecendo 
 </div>
 <br>
 <br>
+<h2 align="center"> 🔌 Conecte-se comigo </h2>
+<div align="center">
+<a href="https://linkedin.com/in/luizsantosws" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luizsantosws" height="30" width="40" /></a>
+<a href="https://fb.com/luizsantosboo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="luizsantosboo" height="30" width="40" /></a>
+<a href="https://instagram.com/lprrboo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lprrboo" height="30" width="40" /></a>
+<br>
+</div>
 <br>
 <br>
 
