@@ -6,23 +6,6 @@ A religião, igualmente, é um elo sagrado que fortalece minha alma, fornecendo 
 </p>
 
 <h1 align=center>Educação e Formação</h1> 
-
-<div class="flex-grow-1">
-  <h2 class="mb-0">SENAI SÃO PAULO</h2>
-    <div class="subheading mb-3"><b>CCNAv7</b> - Introdução, Administração de Redes e Sistemas</div>
-      <p align="justify">
-      - Configurar protocolos de rede, de acordo com as camadas do modelo OSl e TCP/IP;<br>
-      - Elaborar mapa de endereçamento IP lógico, de acordo com a dimensão da rede;<br>
-      - Configurar endereçamento de Rede IPV4 e IPv6, de acordo com o planejamento e segmentação de redes com endereçamento lógico;<br>
-      - Documentar as configurações de ativos de rede, de acordo com as especificidades do projeto;<br>
-      - Ajustar a segurança de acesso aos roteadores e switches Cisco, de acordo com as recomendações do fabricante;<br>
-      - Noções sobre as plataforma de redes Cisco, incluindo roteador, switch e sistema de configuração Cisco IOS, usando CLI;<br>
-      - Protocolos de comunicação Cisco: Telnet, SSH, HTTP, DHCP, FTP e TFTP;<br>
-      - Arquiteturas e topologias de redes: LAN e WAN;
-      </p>
-     </div>
-  <div class="flex-shrink-0"><span class="text-primary">Set 2023 - Dez 2023</span></div>
-<br>
   <h2 class="mb-0">Universidade Virtual do Estado de São Paulo (UNIVESP)</h2>
   <p align="justify">
     <b>Bacharel em Engenharia de Computação</b><br>
