@@ -26,8 +26,8 @@
 <li><span class="fa-li"><i class="fas fa-check"></i></span>Administração de servidores (Windows, Linux)</li>
 <li><span class="fa-li"><i class="fas fa-check"></i></span>Ambiente colaborativo plataforma microsoft</li>
 <li><span class="fa-li"><i class="fas fa-check"></i></span>Desenvolvimento de sites</li>
-<li><span class="fa-li"><i class="fas fa-check"></i></span>Estruturação de Redes (Wifi, Cabeada)</li>
-<li><span class="fa-li"><i class="fas fa-check"></i></span>Firewall (SonicWall, PfSense)</li>
+<li><span class="fa-li"><i class="fas fa-check"></i></span>Estruturação de Redes (Wifi, Cabeada, Alta Disponibilidade, Alto Padrão Residencial e Comercial)</li>
+<li><span class="fa-li"><i class="fas fa-check"></i></span>Firewall (SonicWall, PfSense, DreamMachine, Mikrotik)</li>
 <li><span class="fa-li"><i class="fas fa-check"></i></span>Gestão em TI</li>
 <li><span class="fa-li"><i class="fas fa-check"></i></span>Habilitação do Office365 para empresas</li>
 <li><span class="fa-li"><i class="fas fa-check"></i></span>Migração de domínio (Sites, emails, serviços)</li>
