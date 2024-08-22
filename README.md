@@ -23,18 +23,18 @@
 <h2 align="center"> ⚒️ Habilidades / Hardskills</h2>
 
 <ul>
-<li><span class="fa-li"><i class="fas fa-check"></i></span>Administração de servidores (Windows, Linux)</li>
+<li><span class="fa-li"><i class="fas fa-check"></i></span>Administração de servidores (Windows, Linux, Macs)</li>
 <li><span class="fa-li"><i class="fas fa-check"></i></span>Ambiente colaborativo plataforma microsoft</li>
-<li><span class="fa-li"><i class="fas fa-check"></i></span>Desenvolvimento de sites</li>
+<li><span class="fa-li"><i class="fas fa-check"></i></span>Desenvolvimento em websites</li>
 <li><span class="fa-li"><i class="fas fa-check"></i></span>Estruturação de Redes (Wifi, Cabeada, Alta Disponibilidade, Alto Padrão Residencial e Comercial)</li>
 <li><span class="fa-li"><i class="fas fa-check"></i></span>Firewall (SonicWall, PfSense, DreamMachine, Mikrotik)</li>
-<li><span class="fa-li"><i class="fas fa-check"></i></span>Gestão em TI</li>
+<li><span class="fa-li"><i class="fas fa-check"></i></span>Gestão em TI (gestão estratégica, equipe)</li>
 <li><span class="fa-li"><i class="fas fa-check"></i></span>Habilitação do Office365 para empresas</li>
-<li><span class="fa-li"><i class="fas fa-check"></i></span>Migração de domínio (Sites, emails, serviços)</li>
-<li><span class="fa-li"><i class="fas fa-check"></i></span>Monitoramento de ativos</li>
-<li><span class="fa-li"><i class="fas fa-check"></i></span>OneDrive, acessos e compatilhamentos</li>
+<li><span class="fa-li"><i class="fas fa-check"></i></span>Migração de domínio/site (Sites, e-mails, serviços e servidores)</li>
+<li><span class="fa-li"><i class="fas fa-check"></i></span>Monitoramento de ativos (Glpi, Zabbix, Cacti)</li>
+<li><span class="fa-li"><i class="fas fa-check"></i></span>OneDrive, acessos e compatilhamentos (modo de gestão)</li>
 <li><span class="fa-li"><i class="fas fa-check"></i></span>PowerBi</li>
-<li><span class="fa-li"><i class="fas fa-check"></i></span>Telefonia em nuvem</li>
+<li><span class="fa-li"><i class="fas fa-check"></i></span>Telefonia analógica e em nuvem</li>
 <li><span class="fa-li"><i class="fas fa-check"></i></span>Virtualização (VmWare, Hyper-V)</li>
 </ul>
 <h2 align="center"> 📖 Santander Bootcamp 2024 </h2>
