@@ -20,23 +20,6 @@
     </div>
   <div class="flex-shrink-0"><span class="text-primary">Jul 2016 - Jul 2017</span></div>
 
-<h2 align="center"> ⚒️ Habilidades / Hardskills</h2>
-
-<ul>
-<li><span class="fa-li"><i class="fas fa-check"></i></span>Administração de servidores (Windows, Linux, Macs)</li>
-<li><span class="fa-li"><i class="fas fa-check"></i></span>Ambiente colaborativo plataforma microsoft</li>
-<li><span class="fa-li"><i class="fas fa-check"></i></span>Desenvolvimento em websites</li>
-<li><span class="fa-li"><i class="fas fa-check"></i></span>Estruturação de Redes (Wifi, Cabeada, Alta Disponibilidade, Alto Padrão Residencial e Comercial)</li>
-<li><span class="fa-li"><i class="fas fa-check"></i></span>Firewall (SonicWall, PfSense, DreamMachine, Mikrotik)</li>
-<li><span class="fa-li"><i class="fas fa-check"></i></span>Gestão em TI (gestão estratégica, equipe)</li>
-<li><span class="fa-li"><i class="fas fa-check"></i></span>Habilitação do Office365 para empresas</li>
-<li><span class="fa-li"><i class="fas fa-check"></i></span>Migração de domínio/site (Sites, e-mails, serviços e servidores)</li>
-<li><span class="fa-li"><i class="fas fa-check"></i></span>Monitoramento de ativos (Glpi, Zabbix, Cacti)</li>
-<li><span class="fa-li"><i class="fas fa-check"></i></span>OneDrive, acessos e compatilhamentos (modo de gestão)</li>
-<li><span class="fa-li"><i class="fas fa-check"></i></span>PowerBi</li>
-<li><span class="fa-li"><i class="fas fa-check"></i></span>Telefonia analógica e em nuvem</li>
-<li><span class="fa-li"><i class="fas fa-check"></i></span>Virtualização (VmWare, Hyper-V)</li>
-</ul>
 <h2 align="center"> 📖 Santander Bootcamp 2024 </h2>
 <div align="center">
 <img src="https://hermes.dio.me/tracks/84b2d685-23f9-4729-9e3c-28cb84a39b38.png" alt="Imagem 1" width="100">
