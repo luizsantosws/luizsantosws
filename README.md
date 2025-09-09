@@ -19,13 +19,6 @@
     Seleciono recursos de trabalho, linguagens de programação, ferramentas e metodologias para o desenvolvimento de sistemas.</p>    
     </div>
   <div class="flex-shrink-0"><span class="text-primary">Jul 2016 - Jul 2017</span></div>
-
-<h2 align="center"> 📖 Santander Bootcamp 2024 </h2>
-<div align="center">
-<img src="https://hermes.dio.me/tracks/84b2d685-23f9-4729-9e3c-28cb84a39b38.png" alt="Imagem 1" width="100">
-<br>
-<br>
-<img src="https://hermes.dio.me/certificates/cover/AZGFJCF1.jpg" alt="Imagem 2" width="400">
 </center>
 </div>
 <br>
